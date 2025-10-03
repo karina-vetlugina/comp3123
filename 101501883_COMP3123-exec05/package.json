@@ -1,0 +1,16 @@
+{
+  "name": "101501883_COMP3123-exec05",
+  "version": "1.0.0",
+  "description": "Node/Express routes lab with fixed code and Postman tests.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "101501883 - COMP3123 Exercise 05",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
